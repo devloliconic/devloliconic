@@ -9,3 +9,9 @@
 ![webpack](https://img.shields.io/badge/-Webpack-223040?style=for-the-badge&logo=Webpack&logoColor=FFFFFF)
 ![FIGMA](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&logoColor=FFFFFF)
 ![PHOTOSHOP](https://img.shields.io/badge/-Photoshop-001833?style=for-the-badge&logo=AdobePhotoshop&logoColor=FFFFFF)
+
+
+### Follow me
+
+[![inst](https://img.shields.io/badge/-instagram-000000?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://www.instagram.com/alloveformymom/)
+[![VK](https://img.shields.io/badge/-VKONTAKTE-000000?style=for-the-badge&logo=VK&logoColor=FFFFFF)](https://vk.com/salutkishukekaterine)
