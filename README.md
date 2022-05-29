@@ -15,3 +15,5 @@
 
 [![inst](https://img.shields.io/badge/-instagram-000000?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://www.instagram.com/alloveformymom/)
 [![VK](https://img.shields.io/badge/-VKONTAKTE-000000?style=for-the-badge&logo=VK&logoColor=FFFFFF)](https://vk.com/salutkishukekaterine)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devloliconic&show_icons=true&theme=dark&icon_color=fff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
