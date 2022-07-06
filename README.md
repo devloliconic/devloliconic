@@ -2,6 +2,7 @@
 
 ### Main tools
 
+![react](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=React&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=000000)
 ![HTML](https://img.shields.io/badge/-html5-E44D25?style=for-the-badge&logo=html5&logoColor=000000)
 ![CSS](https://img.shields.io/badge/-CSS3-017DC7?style=for-the-badge&logo=css3&logoColor=000000)
@@ -9,6 +10,7 @@
 ![webpack](https://img.shields.io/badge/-Webpack-223040?style=for-the-badge&logo=Webpack&logoColor=FFFFFF)
 ![FIGMA](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&logoColor=FFFFFF)
 ![PHOTOSHOP](https://img.shields.io/badge/-Photoshop-001833?style=for-the-badge&logo=AdobePhotoshop&logoColor=FFFFFF)
+
 
 
 ### Follow me
