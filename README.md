@@ -7,7 +7,6 @@
 ![HTML](https://img.shields.io/badge/-html5-E44D25?style=for-the-badge&logo=html5&logoColor=000000)
 ![CSS](https://img.shields.io/badge/-CSS3-017DC7?style=for-the-badge&logo=css3&logoColor=000000)
 ![SCSS](https://img.shields.io/badge/-Sass-C6568C?style=for-the-badge&logo=Sass&logoColor=000000)
-![webpack](https://img.shields.io/badge/-Webpack-223040?style=for-the-badge&logo=Webpack&logoColor=FFFFFF)
 ![FIGMA](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&logoColor=FFFFFF)
 ![PHOTOSHOP](https://img.shields.io/badge/-Photoshop-001833?style=for-the-badge&logo=AdobePhotoshop&logoColor=FFFFFF)
 
