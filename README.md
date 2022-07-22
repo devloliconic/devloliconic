@@ -1,4 +1,4 @@
-## i'm a beginner Software Engineer
+## Hi. i'm a beginner Software Engineer
 
 ### Main tools
 
