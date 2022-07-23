@@ -1,6 +1,6 @@
 ## Hi. i'm a beginner Software Engineer
 
-### Main tools
+### I study
 
 ![react](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=React&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=000000)
