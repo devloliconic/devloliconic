@@ -1,4 +1,4 @@
-## Hi. i'm a beginner Software Engineer
+## Hi. i'm a beginner front-end developer
 
 ### I study
 
