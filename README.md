@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
 ### General
-![Typescript](https://img.shields.io/badge/-Typescript-white?style=for-the-badge&logo=typescript&logoColor=0000ff)
+![Typescript](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=typescript&logoColor=0000ff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=000000)
 ![FIGMA](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&)
 ![Git](https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=Git&logoColor=F05133)
