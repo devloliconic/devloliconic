@@ -18,6 +18,7 @@
 ![ReactQuery](https://img.shields.io/badge/-ReactQuery-black?style=for-the-badge&logo=ReactQuery&logoColor=#B65D8A)
 ![Antdesign](https://img.shields.io/badge/-Antdesign-black?style=for-the-badge&logo=Antdesign&logoColor=#B65D8A)
 ![DND kit](https://img.shields.io/badge/-Dndkit-black?style=for-the-badge&logo=dndkit&logoColor=#B65D8A)
+![VITE](https://img.shields.io/badge/-VITE-black?style=for-the-badge&logo=VITE&logoColor=#B65D8A)
 
 
 
