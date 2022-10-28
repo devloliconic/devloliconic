@@ -31,7 +31,6 @@
 
 ### Follow me
 
-[![inst](https://img.shields.io/badge/-instagram-000000?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://www.instagram.com/alloveformymom/)
 [![VK](https://img.shields.io/badge/-VKONTAKTE-000000?style=for-the-badge&logo=VK&logoColor=FFFFFF)](https://vk.com/salutkishukekaterine)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=devloliconic)](https://github.com/ashutosh00710/github-readme-activity-graph)
