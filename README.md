@@ -8,6 +8,8 @@
 ![FIGMA](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&)
 ![Git](https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=Git&logoColor=F05133)
 ![Npm](https://img.shields.io/badge/-Npm-white?style=for-the-badge&logo=Npm&logoColor=F05133)
+![Yarn](https://img.shields.io/badge/-Yarn-white?style=for-the-badge&logo=Yarn&logoColor=F05133)
+
 ![Lodash](https://img.shields.io/badge/-lodash-white?style=for-the-badge&logo=lodash&logoColor=F05133)
 
 
