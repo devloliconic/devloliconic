@@ -10,7 +10,7 @@
 ![Npm](https://img.shields.io/badge/-Npm-black?style=for-the-badge&logo=Npm&logoColor=FFFFFF)
 ![Yarn](https://img.shields.io/badge/-Yarn-black?style=for-the-badge&logo=Yarn&logoColor=FFFFFF)
 
-![Lodash](https://img.shields.io/badge/-lodash-white?style=for-the-badge&logo=lodash&logoColor=FFFFFF)
+![Lodash](https://img.shields.io/badge/-lodash-black?style=for-the-badge&logo=lodash&logoColor=FFFFFF)
 
 
 ### Front-end
