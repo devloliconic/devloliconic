@@ -4,7 +4,7 @@
 
 ### General
 ![Typescript](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
 ![FIGMA](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&)
 ![Git](https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=Git&logoColor=FFFFFF)
 ![Npm](https://img.shields.io/badge/-Npm-white?style=for-the-badge&logo=Npm&logoColor=FFFFFF)
