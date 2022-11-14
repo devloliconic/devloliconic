@@ -3,14 +3,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
 ### General
-![Typescript](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=typescript&logoColor=0000ff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=000000)
+![Typescript](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
 ![FIGMA](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&)
-![Git](https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=Git&logoColor=F05133)
-![Npm](https://img.shields.io/badge/-Npm-white?style=for-the-badge&logo=Npm&logoColor=F05133)
-![Yarn](https://img.shields.io/badge/-Yarn-white?style=for-the-badge&logo=Yarn&logoColor=F05133)
+![Git](https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=Git&logoColor=FFFFFF)
+![Npm](https://img.shields.io/badge/-Npm-white?style=for-the-badge&logo=Npm&logoColor=FFFFFF)
+![Yarn](https://img.shields.io/badge/-Yarn-white?style=for-the-badge&logo=Yarn&logoColor=FFFFFF)
 
-![Lodash](https://img.shields.io/badge/-lodash-white?style=for-the-badge&logo=lodash&logoColor=F05133)
+![Lodash](https://img.shields.io/badge/-lodash-white?style=for-the-badge&logo=lodash&logoColor=FFFFFF)
 
 
 ### Front-end
