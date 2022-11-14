@@ -1,6 +1,5 @@
 ## i'm a junior front-end developer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
 ### General
 ![Typescript](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
@@ -36,5 +35,3 @@
 ### Follow me
 
 [![VK](https://img.shields.io/badge/-VKONTAKTE-000000?style=for-the-badge&logo=VK&logoColor=FFFFFF)](https://vk.com/salutkishukekaterine)
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=devloliconic)](https://github.com/ashutosh00710/github-readme-activity-graph)
