@@ -1,4 +1,4 @@
-## i'm a junior front-end developer
+
 
 
 ### General
