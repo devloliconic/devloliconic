@@ -1,4 +1,4 @@
-###Tech Stack: 
+### Tech Stack: 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=FFFFFF)
@@ -22,7 +22,7 @@
 ![Formik](https://img.shields.io/badge/-Formik-black?style=for-the-badge&logo=formik&logoColor=FFFFFF)
 ![CSS modules](https://img.shields.io/badge/-CSS%20modules-black?style=for-the-badge&logo=css%20modules&logoColor=FFFFFF)
 
-###Additional tools:
+### Additional tools:
 
 - Git: ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=FFFFFF)
 - Webpack: ![Webpack](https://img.shields.io/badge/-Webpack-black?style=for-the-badge&logo=webpack&logoColor=FFFFFF)
