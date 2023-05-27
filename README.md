@@ -24,11 +24,11 @@
 
 ### Additional tools:
 
-- Git: ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=FFFFFF)
-- Webpack: ![Webpack](https://img.shields.io/badge/-Webpack-black?style=for-the-badge&logo=webpack&logoColor=FFFFFF)
-- Vite: ![Vite](https://img.shields.io/badge/-Vite-black?style=for-the-badge&logo=vite&logoColor=FFFFFF)
-- Jira: ![Jira](https://img.shields.io/badge/-Jira-black?style=for-the-badge&logo=jira&logoColor=FFFFFF)
-- NPM/Yarn: ![NPM/Yarn](https://img.shields.io/badge/-NPM/Yarn-black?style=for-the-badge&logo=npm&logoColor=FFFFFF)
-- BEM (CSS): ![BEM (CSS)](https://img.shields.io/badge/-BEM%20(CSS)-black?style=for-the-badge&logo=bem&logoColor=FFFFFF)
-- Confluence: ![Confluence](https://img.shields.io/badge/-Confluence-black?style=for-the-badge&logo=confluence&logoColor=FFFFFF)
-- Yandex Tracker: ![Yandex Tracker](https://img.shields.io/badge/-Yandex%20Tracker-black?style=for-the-badge&logo=yandex&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=FFFFFF)
+![Webpack](https://img.shields.io/badge/-Webpack-black?style=for-the-badge&logo=webpack&logoColor=FFFFFF)
+![Vite](https://img.shields.io/badge/-Vite-black?style=for-the-badge&logo=vite&logoColor=FFFFFF)
+![Jira](https://img.shields.io/badge/-Jira-black?style=for-the-badge&logo=jira&logoColor=FFFFFF)
+![NPM/Yarn](https://img.shields.io/badge/-NPM/Yarn-black?style=for-the-badge&logo=npm&logoColor=FFFFFF)
+![BEM (CSS)](https://img.shields.io/badge/-BEM%20(CSS)-black?style=for-the-badge&logo=bem&logoColor=FFFFFF)
+![Confluence](https://img.shields.io/badge/-Confluence-black?style=for-the-badge&logo=confluence&logoColor=FFFFFF)
+![Yandex Tracker](https://img.shields.io/badge/-Yandex%20Tracker-black?style=for-the-badge&logo=yandex&logoColor=FFFFFF)
