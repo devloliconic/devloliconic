@@ -1,5 +1,4 @@
-Вот запись каждой технологии в формате "![Технология](Ссылка_на_изображение)":
-
+###Tech Stack: 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=FFFFFF)
@@ -18,14 +17,12 @@
 ![Ant Design](https://img.shields.io/badge/-Ant%20Design-black?style=for-the-badge&logo=ant%20design&logoColor=FFFFFF)
 ![Lodash](https://img.shields.io/badge/-Lodash-black?style=for-the-badge&logo=lodash&logoColor=FFFFFF)
 ![date-fns](https://img.shields.io/badge/-date--fns-black?style=for-the-badge&logo=date-fns&logoColor=FFFFFF)
-![i18next](https://img.shields.io/badge/-i
-
-18next-black?style=for-the-badge&logo=i18next&logoColor=FFFFFF)
+![i18next](https://img.shields.io/badge/-i18next-black?style=for-the-badge&logo=i18next&logoColor=FFFFFF)
 ![react-hook-form](https://img.shields.io/badge/-react--hook--form-black?style=for-the-badge&logo=react-hook-form&logoColor=FFFFFF)
 ![Formik](https://img.shields.io/badge/-Formik-black?style=for-the-badge&logo=formik&logoColor=FFFFFF)
 ![CSS modules](https://img.shields.io/badge/-CSS%20modules-black?style=for-the-badge&logo=css%20modules&logoColor=FFFFFF)
 
-Дополнительные инструменты:
+###Additional tools:
 
 - Git: ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=FFFFFF)
 - Webpack: ![Webpack](https://img.shields.io/badge/-Webpack-black?style=for-the-badge&logo=webpack&logoColor=FFFFFF)
