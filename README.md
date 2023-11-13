@@ -20,7 +20,7 @@
 ![react-hook-form](https://img.shields.io/badge/-react--hook--form-black?style=for-the-badge&logo=react-hook-form&logoColor=FFFFFF)
 ![GraphQL](https://img.shields.io/badge/-graphql-black?style=for-the-badge&logo=graphql&logoColor=FFFFFF)
 
-###Backend:
+### Backend:
 ![Express](https://img.shields.io/badge/-express-black?style=for-the-badge&logo=express&logoColor=FFFFFF)
 ![Firebase](https://img.shields.io/badge/-firebase-black?style=for-the-badge&logo=express&logoColor=FFFFFF)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)
